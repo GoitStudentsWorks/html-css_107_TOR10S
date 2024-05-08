@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/tors-hammer/",
+    "build": "vite build --base=/html-css_107_TOR10S/",
     "preview": "vite preview"
   },
   "devDependencies": {
